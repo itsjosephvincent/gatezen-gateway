@@ -1,0 +1,10 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "void_return": true,
+        "return_type_declaration": {
+            "space_before": "none"
+        },
+        "phpdoc_to_return_type": true
+    }
+}
